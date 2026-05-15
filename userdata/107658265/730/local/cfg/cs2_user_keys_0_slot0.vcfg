@@ -1,0 +1,34 @@
+"config"
+{
+	"bindings"
+	{
+		"CTRL"		"+VOICERECORD"
+		"MOUSE4"		"exec mira2"
+		"MWHEELUP"		"<unbound>"
+		"MWHEELDOWN"		"+jump"
+		"f"		"drop"
+		"g"		"+lookatweapon"
+		"n"		"noclip;kz_noclip"
+		"MOUSE5"		"exec mira1"
+		"z"		"radio"
+		"CAPSLOCK"		"+duck"
+		"x"		"slot6"
+		"c"		"slot8"
+		"SPACE"		"+jump"
+		"7"		"<unbound>"
+		"8"		"<unbound>"
+		"0"		"<unbound>"
+		"v"		"slot10"
+		"4"		"slot7"
+		"6"		"<unbound>"
+		"F9"		"say CLICOU ( ) NAO CLICOU (X)"
+		"1"		"SLOT1;KZ_CP"
+		"2"		"SLOT2;KZ_TP"
+		"DOWNARROW"		"exec mira1"
+		"UPARROW"		"exec mira2"
+	}
+	"analogbindings"
+	{
+		"MOUSE_X"		"yaw"
+	}
+}
